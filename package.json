@@ -92,7 +92,7 @@
     "karma-sauce-launcher": "0.3.0",
     "karma-sourcemap-loader": "0.3.6",
     "madge": "0.5.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "mutation-observer": "^1.0.3",
     "node-uuid": "1.4.8",
     "protobufjs": "5.0.0",
